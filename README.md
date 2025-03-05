@@ -84,10 +84,11 @@ url-shortener/
 │   └── home.html
 ├── requirements.txt
 
--   `urlshortener/views.py`: Contains the logic for URL shortening and rendering the form.
--   `urlshortener/forms.py`: Defines the form for URL input.
--   `templates/home.html`: The HTML template for the URL shortener page.
--   `requirements.txt`: Lists the project's dependencies.
+
+- `urlshortener/views.py`: Contains the logic for URL shortening and rendering the form.
+- `urlshortener/forms.py`: Defines the form for URL input.
+- `templates/home.html`: The HTML template for the URL shortener page.
+- `requirements.txt`: Lists the project's dependencies.
 
 ## Dependencies
 
