@@ -70,6 +70,7 @@ This project is built with Django, Bootstrap, and SweetAlert2. It allows users t
 
 ## Project Structure
 
+ ```
 url-shortener/
 ├── urlshortener/
 │   ├── init.py
@@ -83,6 +84,7 @@ url-shortener/
 ├── templates/
 │   └── home.html
 ├── requirements.txt
+ ```
 
 
 - `urlshortener/views.py`: Contains the logic for URL shortening and rendering the form.
