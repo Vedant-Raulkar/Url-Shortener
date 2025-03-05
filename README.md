@@ -1,6 +1,6 @@
-# URL Shortener Project
+# URL Shortener 
 
-This project is a simple URL shortener built with Django, Bootstrap, and SweetAlert2. It allows users to input a long URL and receive a shortened version using the `pyshorteners` library.
+This project is built with Django, Bootstrap, and SweetAlert2. It allows users to input a long URL and receive a shortened version using the `pyshorteners` library.
 
 ## Features
 
@@ -12,7 +12,7 @@ This project is a simple URL shortener built with Django, Bootstrap, and SweetAl
 
 ## Requirements
 
--   `pyshorteners` library
+-   `pyshorteners` 
 -   `asgiref`
 -   `certifi`
 -   `charset-normalizer`
