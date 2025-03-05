@@ -12,7 +12,6 @@ This project is a simple URL shortener built with Django, Bootstrap, and SweetAl
 
 ## Requirements
 
--   Django 5.1.1 (or compatible version)
 -   `pyshorteners` library
 -   `asgiref`
 -   `certifi`
@@ -29,8 +28,8 @@ This project is a simple URL shortener built with Django, Bootstrap, and SweetAl
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
-    cd <project_directory>
+    git clone https://github.com/Vedant-Raulkar/Url-Shortener
+    cd Url-Shortener
     ```
 
 2.  **Create a virtual environment (recommended):**
